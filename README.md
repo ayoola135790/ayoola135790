@@ -7,7 +7,7 @@ Welcome to my Github! 😁
 My name is pronounced "IO-LAH" but I go by Ayo "IO"
 <br>
 <br>
-I'm a Computer Science and Linguistics Major at University of California, Los Angeles (UCLA)
+<b>I'm a Computer Science and Linguistics Major at University of California, Los Angeles (UCLA) <b>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayoola135790)](https://github.com/ryo-ma/github-profile-trophy)
 
