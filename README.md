@@ -3,7 +3,9 @@
 
 Welcome to my Github! 😁
 <br>
+<br>
 My name is pronounced "IO-LAH" but I go by Ayo "IO"
+<br>
 <br>
 I'm a Computer Science and Linguistics Major at University of California, Los Angeles (UCLA)
 
