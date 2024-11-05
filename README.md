@@ -9,6 +9,8 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO"
 <br>
 I'm a Computer Science and Linguistics Major at University of California, Los Angeles (UCLA)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayoola135790)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 📫 How to reach me: kingayoola18@ucla.edu
 - ⚡ Fun fact: I <b>LOVE<b> One Piece! (hahaha)
