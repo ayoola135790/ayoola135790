@@ -2,7 +2,7 @@
 
 
 
-Welcome to my Github! 👋
+Welcome to my Github! 😁
 <br>
 I'm a Computer Science and Linguistics Major at University of California, Los Angeles (UCLA)
 
