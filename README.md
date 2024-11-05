@@ -7,7 +7,10 @@ I'm a Computer Science and Linguistics Major at University of California, Los An
 
 
 - 📫 How to reach me: kingayoola18@ucla.edu
-- ⚡ Fun fact: I love One Piece! (hahaha)
+- ⚡ Fun fact: I <b>LOVE<b> One Piece! (hahaha)
+
+Connect with me:
+
 
 <!--
 **ayoola135790/ayoola135790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
