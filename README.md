@@ -15,7 +15,7 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 - ⚡ Fun fact: I <b>LOVE<b> One Piece! (hahaha)
 
 Connect with me:
-
+linkedin.com/in/emmanuel-o-455537212
 
 
 <!--
