@@ -17,7 +17,7 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 Connect with me:
 <br>
 ### LinkedIn Profile:
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/emmanuel-o-455537212)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="100">](https://www.linkedin.com/in/emmanuel-o-455537212)
 
 
 
