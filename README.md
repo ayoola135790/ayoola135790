@@ -3,6 +3,7 @@
 
 
 Welcome to my Github! 👋
+<br>
 I'm a Computer Science and Linguistics Major at University of California, Los Angeles (UCLA)
 
 
@@ -10,6 +11,7 @@ I'm a Computer Science and Linguistics Major at University of California, Los An
 - ⚡ Fun fact: I <b>LOVE<b> One Piece! (hahaha)
 
 Connect with me:
+
 
 
 <!--
