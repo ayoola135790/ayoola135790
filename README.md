@@ -1,7 +1,11 @@
-## Hey, my name is Ayoola Ogunleye 😁 Welcome to my Github! 👋
+## Hey, my name is Ayo😁 
+
+Welcome to my Github! 👋
 
 <!--
 **ayoola135790/ayoola135790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
