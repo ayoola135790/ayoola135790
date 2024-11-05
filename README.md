@@ -1,8 +1,9 @@
 # Hey👋, I'm Ayoola Ogunleye 
 
 
-
 Welcome to my Github! 😁
+<br>
+My name is pronounced "IO-LAH" but I go by Ayo "IO"
 <br>
 I'm a Computer Science and Linguistics Major at University of California, Los Angeles (UCLA)
 
