@@ -14,11 +14,12 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 - 📫 How to reach me: kingayoola18@ucla.edu
 - ⚡ Fun fact: I <b>LOVE<b> One Piece! (hahaha)
 
-Connect with me:
+### Connect with me:
 <br>
-### LinkedIn Profile:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="100">](https://www.linkedin.com/in/emmanuel-o-455537212)
 
+<br>
+### Languages and Tools:
 
 
 <!--
