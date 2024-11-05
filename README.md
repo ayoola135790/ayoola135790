@@ -10,7 +10,7 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayoola135790)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning: ## about how to better utlize AI to help create solutions to problems. As in my major, I am combining the use of linguistics and computer science, to learn about Natural Language Processing, a subset of Artificial Intelligence. I believe this would be able to help me in future practices for a career in technology, specifically with product management. 
+- 🌱 I’m currently learning: about how to better utlize AI to help create solutions to problems. As in my major, I am combining the use of linguistics and computer science, to learn about Natural Language Processing, a subset of Artificial Intelligence. I believe this would be able to help me in future practices for a career in technology, specifically with product management. 
 - 📫 How to reach me: kingayoola18@ucla.edu
 - ⚡ Fun fact: I <b>LOVE<b> One Piece! (hahaha)
 
