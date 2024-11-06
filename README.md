@@ -23,8 +23,7 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="Figma" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="50">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="JavaScript" width="50">
-[<img src="URL_TO_PYTHON_LOGO" alt="Python" width="50">](https://www.python.org/)
-
+<img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" alt="Python" width="50">
 
 
 
