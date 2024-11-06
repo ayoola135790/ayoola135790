@@ -14,10 +14,7 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 - 📫 How to reach me: kingayoola18@ucla.edu
 - ⚡ Fun fact: I <b>LOVE<b> One Piece! (hahaha)
 
-### Connect with me:
-<br>
-
-### LinkedIn Profile:
+### Connect with me: 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50">](https://www.linkedin.com/in/emmanuel-o-455537212)
 <br>
 
@@ -25,7 +22,7 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="50">
 <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="Figma" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="50">
-[<img src="URL_TO_JS_LOGO" alt="JavaScript" width="50">](https://en.wikipedia.org/wiki/JavaScript)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="JavaScript" width="50">
 [<img src="URL_TO_PYTHON_LOGO" alt="Python" width="50">](https://www.python.org/)
 
 
