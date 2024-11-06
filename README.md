@@ -16,10 +16,19 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 
 ### Connect with me:
 <br>
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="100">](https://www.linkedin.com/in/emmanuel-o-455537212)
 
+### LinkedIn Profile:
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50">](https://www.linkedin.com/in/emmanuel-o-455537212)
 <br>
-### Languages and Tools:
+
+### Programming Languages and Tools
+[<img src="URL_TO_CPP_LOGO" alt="C++" width="50">](https://en.wikipedia.org/wiki/C++)
+[<img src="URL_TO_FIGMA_LOGO" alt="Figma" width="50">](https://www.figma.com/)
+[<img src="URL_TO_CSS_LOGO" alt="CSS" width="50">](https://en.wikipedia.org/wiki/CSS)
+[<img src="URL_TO_JS_LOGO" alt="JavaScript" width="50">](https://en.wikipedia.org/wiki/JavaScript)
+[<img src="URL_TO_PYTHON_LOGO" alt="Python" width="50">](https://www.python.org/)
+
+
 
 
 <!--
