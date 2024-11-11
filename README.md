@@ -14,6 +14,15 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 - 📫 How to reach me: kingayoola18@ucla.edu
 - ⚡ Fun fact: I <b>LOVE<b> One Piece! (hahaha)
 
+### Here's a list of my projects:
+
+- [AStar Fitness](https://github.com/Shoheicode/fitness-app-project)
+  - [fitnesschatbot](https://github.com/ayoola135790/fitnesschatbot)
+- [TransferWise - Google Solution Challenge](https://github.com/El-Camino-Google-Developer-Student-Club/El-Camino-2023-Solution-Challenge)
+- [IceMan Game - CS30](https://github.com/ayoola135790/icemanproj)
+
+
+
 ### Connect with me: 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50">](https://www.linkedin.com/in/emmanuel-o-455537212)
 <br>
