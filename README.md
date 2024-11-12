@@ -38,8 +38,7 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="JavaScript" width="50">
 <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" alt="Python" width="50">
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoola135790)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
 <!--
 **ayoola135790/ayoola135790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
