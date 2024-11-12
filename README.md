@@ -3,7 +3,7 @@
 Welcome to my Github! 😁
 <br>
 <br>
-My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
+My name is Emmanuel but I go by Ayo "IO" (shorter version of my name)
 <br>
 <br>
 <b>I'm a Computer Science and Linguistics Major at University of California, Los Angeles (UCLA) <b>
