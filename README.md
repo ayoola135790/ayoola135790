@@ -14,7 +14,7 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 - 📫 How to reach me: kingayoola18@ucla.edu
 - ⚡ Fun fact: I <b>LOVE<b> One Piece! (hahaha)
 
-### Here's a list of some of my projects:
+### Here's a list of some of my best projects:
 
 - [AStar Fitness](https://github.com/Shoheicode/fitness-app-project)
   - [fitnesschatbot](https://github.com/ayoola135790/fitnesschatbot)
@@ -22,8 +22,8 @@ My name is pronounced "IO-LAH" but I go by Ayo "IO" (shorter version of my name)
 - [IceMan Game - CS30](https://github.com/ayoola135790/icemanproj)
 - [Malware Defense (Disclaimer - Educational Use Only!)](https://github.com/ucla-e1-malware/final-project-sand)
 
-- [Doubly Linked List]()
-- [Smart Pointer]()
+### Take a look of my other projects!
+- [Map Implementation - Doubly Linked List](https://github.com/ayoola135790/mapimplementation)
 
 
 
