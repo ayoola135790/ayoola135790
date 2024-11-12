@@ -24,6 +24,7 @@ My name is Emmanuel but I go by Ayo "IO" (shorter version of my name)
 
 ### Take a look of my other projects!
 - [Map Implementation - Doubly Linked List](https://github.com/ayoola135790/mapimplementation)
+- [Smart Pointer Creation](https://github.com/ayoola135790/SmartPointer)
 
 
 
