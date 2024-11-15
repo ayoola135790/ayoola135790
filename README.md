@@ -20,12 +20,11 @@ My name is Emmanuel but I go by Ayo "IO" (shorter version of my middle name)
   - [fitnesschatbot](https://github.com/ayoola135790/fitnesschatbot)
 - [TransferWise - Google Solution Challenge](https://github.com/El-Camino-Google-Developer-Student-Club/El-Camino-2023-Solution-Challenge)
 - [IceMan Game](https://github.com/ayoola135790/icemanproj)
-- [Malware Defense (Disclaimer - Educational Use Only!)](https://github.com/ucla-e1-malware/final-project-sand)
+- [Malware Defense (Beware - Educational Use Only!)](https://github.com/ucla-e1-malware/final-project-sand)
 
 
 ### Take a look at my other projects!
 - [Student-Person-Class Database](https://github.com/ayoola135790/ThePersonClass)  -  Upload coming soon!
-
 - [Map Implementation - Doubly Linked List](https://github.com/ayoola135790/mapimplementation)
 - [Smart Pointer Creation](https://github.com/ayoola135790/SmartPointer)
 
