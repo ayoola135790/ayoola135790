@@ -24,7 +24,7 @@ My name is Emmanuel but I go by Ayo "IO" (shorter version of my middle name)
 
 
 ### Take a look at my other projects!
-- [Student-Person-Class Database] (https://github.com/ayoola135790/ThePersonClass)
+- [Student-Person-Class Database](https://github.com/ayoola135790/ThePersonClass)
 - [Map Implementation - Doubly Linked List](https://github.com/ayoola135790/mapimplementation)
 - [Smart Pointer Creation](https://github.com/ayoola135790/SmartPointer)
 
