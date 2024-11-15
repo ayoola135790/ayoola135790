@@ -22,7 +22,9 @@ My name is Emmanuel but I go by Ayo "IO" (shorter version of my middle name)
 - [IceMan Game - CS30](https://github.com/ayoola135790/icemanproj)
 - [Malware Defense (Disclaimer - Educational Use Only!)](https://github.com/ucla-e1-malware/final-project-sand)
 
+
 ### Take a look at my other projects!
+- [Student-Person-Class Database] (https://github.com/ayoola135790/ThePersonClass)
 - [Map Implementation - Doubly Linked List](https://github.com/ayoola135790/mapimplementation)
 - [Smart Pointer Creation](https://github.com/ayoola135790/SmartPointer)
 
