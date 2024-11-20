@@ -41,6 +41,8 @@ My name is Emmanuel but I go by Ayo "IO" (shorter version of my middle name)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="36">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="JavaScript" width="50">
+<img src="https://michaelwashburnjr.com/hubfs/Imported_Blog_Media/react-icon_svg_.png" alt="React" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/800px-Microsoft_Azure.svg.png" alt="Azure" width="50">
 <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="Figma" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="50">
 
