@@ -46,7 +46,7 @@ My name is Emmanuel but I go by Ayo "IO" (shorter version of my middle name)
 <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="Figma" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="50">
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoola135790)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
