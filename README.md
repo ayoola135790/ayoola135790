@@ -10,7 +10,7 @@ My name is Emmanuel but I go by Ayo "IO" (shorter version of my middle name)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayoola135790)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning: how to better utilize AI to create innovative solutions to problems. My major combines computer science and linguistics, focusing on Natural Language Processing (NLP), a subset of Artificial Intelligence. I believe this interdisciplinary approach will be invaluable in my future career in technology, specifically in product/technical program management.
+- 🌱 I’m currently learning: how to better utilize AI to create innovative solutions to problems. My major combines computer science and linguistics, focusing on Natural Language Processing (NLP), a subset of Artificial Intelligence. I believe this interdisciplinary approach will be invaluable in my future career in technology, specifically in technical program management.
 - 📫 How to reach me: kingayoola18@ucla.edu
 - ⚡ Fun fact: I <b>LOVE<b> One Piece! (hahaha)
 
