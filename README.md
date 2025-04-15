@@ -21,7 +21,7 @@ My name is Emmanuel but I go by Ayo "IO" (shorter version of my middle name)
 - [TransferWise - Google Solution Challenge](https://github.com/El-Camino-Google-Developer-Student-Club/El-Camino-2023-Solution-Challenge)
 - [IceMan Game](https://github.com/ayoola135790/icemanproj)
 - [Dummy MALWARE (Beware - Educational Use Only!)](https://github.com/ayoola135790/cybersandproject)
-
+- [GlucoLog][(https://github.com/ayoola135790/35lproject)]
 
 ### Take a look at my other projects!
 - [2023 Soccer Player Database](https://github.com/ayoola135790/SoccerPlayerDatabase2023)
