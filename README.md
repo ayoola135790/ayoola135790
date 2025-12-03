@@ -22,7 +22,7 @@ My name is Emmanuel but I go by Ayo "IO" (shorter version of my middle name)
 - [IceMan Game](https://github.com/ayoola135790/icemanproj)
 - [Dummy MALWARE (Beware - Educational Use Only!)](https://github.com/ayoola135790/cybersandproject)
 - [GlucoLog](https://github.com/ayoola135790/35lproject)
-- [Agentic Security AI](https://github.com/hannahkendall04/ecem117-project)
+- [MCP Project](https://github.com/hannahkendall04/ecem117-project)
 
 ### Take a look at my other projects!
 - [2023 Soccer Player Database](https://github.com/ayoola135790/SoccerPlayerDatabase2023)
